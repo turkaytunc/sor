@@ -103,6 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-startApp.sh
 startFrontend.sh
 startBackend.sh
